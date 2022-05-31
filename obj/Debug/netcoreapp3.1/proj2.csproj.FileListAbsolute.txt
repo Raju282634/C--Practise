@@ -1,0 +1,13 @@
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\bin\Debug\netcoreapp3.1\proj2.exe
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\bin\Debug\netcoreapp3.1\proj2.deps.json
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\bin\Debug\netcoreapp3.1\proj2.runtimeconfig.json
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\bin\Debug\netcoreapp3.1\proj2.runtimeconfig.dev.json
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\bin\Debug\netcoreapp3.1\proj2.dll
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\bin\Debug\netcoreapp3.1\proj2.pdb
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\obj\Debug\netcoreapp3.1\proj2.csprojAssemblyReference.cache
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\obj\Debug\netcoreapp3.1\proj2.AssemblyInfoInputs.cache
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\obj\Debug\netcoreapp3.1\proj2.AssemblyInfo.cs
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\obj\Debug\netcoreapp3.1\proj2.csproj.CoreCompileInputs.cache
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\obj\Debug\netcoreapp3.1\proj2.dll
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\obj\Debug\netcoreapp3.1\proj2.pdb
+C:\Users\sbsuser\Desktop\c#_vscode\proj2\obj\Debug\netcoreapp3.1\proj2.genruntimeconfig.cache
